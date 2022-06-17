@@ -1,7 +1,7 @@
 English
 Hi, I haven't finished the program, but I want to have practice with you BaseCamp and take a new experience in C / C ++.
 For 3 months on Ukraine Transition without a project. I was relocated to QA (passed the course, stydied for 1 month).
-You can find me in GLO Eugene Kostyuk.
+You can find me in our site Yevgenii Kostiuk.
 
 "I master everything well and quickly gain practical knowledge. I have programming experience from the university and personal,
 something related to PHP, Java and a bit of C / C ++. I have not yet used this knowledge in my work. Now I intend to get to Base Camp
